@@ -53,3 +53,4 @@ The generator never adds a skill, employer, date, or number that isn't already i
 - The 10 jobs are sample data from a local CSV, not live listings. Upload your own CSV in the sidebar (columns: id, title, company, location, description).
 - Scanned or image-only PDFs can't be read (there is no OCR); the app flags them as an ATS failure.
 - Skill matching depends on `data/skills.txt`. Add skills there for other domains.
+- by Pavan Tiruveedhi
