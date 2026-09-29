@@ -1,0 +1,87 @@
+# Display name|alias|alias  -- matching is case-insensitive and whole-word
+Python
+Java
+JavaScript|JS
+TypeScript
+C++
+C#
+Golang
+Rust
+SQL
+MySQL
+PostgreSQL|Postgres
+MongoDB
+SQLite
+Redis
+HTML
+CSS
+React|React.js|ReactJS
+Node.js|NodeJS
+Express.js|ExpressJS
+Django
+Flask
+FastAPI
+Spring Boot
+REST APIs|REST API|RESTful
+GraphQL
+Git
+GitHub
+Docker
+Kubernetes|K8s
+Linux
+Bash|Shell scripting
+AWS|Amazon Web Services
+Azure
+GCP|Google Cloud
+CI/CD|CICD
+Jenkins
+Terraform
+Ansible
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn|sklearn
+TensorFlow
+Keras
+PyTorch
+OpenCV
+YOLO
+Machine Learning|ML
+Deep Learning
+Computer Vision
+NLP|Natural Language Processing
+Transformers
+LLMs|LLM|Large Language Models
+LangChain
+Hugging Face|HuggingFace
+MLOps
+MLflow
+ONNX
+Object Detection
+Image Processing
+OCR
+Data Analysis
+Data Visualization
+Statistics
+Power BI
+Tableau
+Excel
+ETL
+PySpark|Apache Spark
+Hadoop
+Airflow
+Kafka
+Selenium
+Pytest
+JUnit
+Unit Testing
+Postman
+Jira
+Agile
+Scrum
+Streamlit
+Data Structures
+Algorithms
+OOP|Object-Oriented Programming
+Microservices

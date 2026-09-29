@@ -1,0 +1,11 @@
+id,title,company,location,description
+1,Python Developer,TechNova,Hyderabad,"Build backend services in Python using FastAPI and Flask. Design REST APIs, write SQL queries on PostgreSQL, use Git and Docker daily, and add Pytest unit testing. Knowledge of data structures, algorithms, and OOP is expected."
+2,Machine Learning Engineer,VisionWorks,Remote,"Train and deploy Machine Learning and Deep Learning models with PyTorch and TensorFlow. Work with NumPy, Pandas, and Scikit-learn, track experiments in MLflow, follow MLOps practices, and containerize with Docker on AWS."
+3,Data Analyst,InsightHub,Bengaluru,"Analyze business data with SQL, Excel, and Python using Pandas. Build dashboards in Power BI or Tableau, perform Data Analysis and Data Visualization, apply Statistics, and present findings to stakeholders."
+4,Backend Intern,CloudSprint,Vijayawada,"Support the backend team building REST APIs with Python or Java. Learn Git, SQL, and Linux, write unit tests, and work in an Agile Scrum team using Jira."
+5,Full Stack Developer,PixelForge,Chennai,"Develop web apps with React, JavaScript, HTML, and CSS on the front end and Node.js with MongoDB on the back end. Build REST APIs, use Git and GitHub, deploy with Docker and CI/CD."
+6,AI Engineer,NeuralPath,Hyderabad,"Build applications with LLMs, LangChain, and Hugging Face Transformers. Develop NLP pipelines in Python, serve models through FastAPI, use Docker, and evaluate model quality."
+7,Data Scientist,AnalyticaX,Pune,"Apply Machine Learning, Statistics, and Data Analysis to real datasets. Use Python, Pandas, NumPy, Scikit-learn, and SQL, visualize results with Matplotlib and Seaborn, and communicate insights clearly."
+8,QA Automation Engineer,QualityFirst,Noida,"Automate web testing with Selenium and Pytest, test REST APIs with Postman, integrate tests in CI/CD with Jenkins, track defects in Jira, and work in Agile teams. Python or Java required."
+9,DevOps Intern,InfraLabs,Remote,"Assist with Docker and Kubernetes deployments, write Bash scripts on Linux, use Git, learn CI/CD with Jenkins, and gain exposure to AWS and Terraform."
+10,Computer Vision Engineer,VisionWorks,Bengaluru,"Develop Computer Vision and Object Detection systems with OpenCV, YOLO, and PyTorch. Handle Image Processing and OCR tasks, optimize models with ONNX, and write clean Python and C++ code."
